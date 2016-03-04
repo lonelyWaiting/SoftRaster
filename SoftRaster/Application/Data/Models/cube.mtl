@@ -1,0 +1,13 @@
+# Create as many materials as desired
+# Each is referenced by name before the faces it applies to in the obj file
+
+newmtl file1SG
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.800000 0.800000 0.800000
+Tr 16.00000
+illum 1
+Ns 0.000000
+map_Kd bricks.dds
+
+
